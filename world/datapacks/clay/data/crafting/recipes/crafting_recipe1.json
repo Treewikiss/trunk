@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:sand"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gravel",
+        "count": 8
+    }
+}
